@@ -1,0 +1,8 @@
+{
+  "name": "container",
+  "description": "",
+  "license": "MIT",
+  "dependencies": {
+    "@nebulario/microservices-auth-web": "file:./../microservices-auth-web"
+  }
+}
