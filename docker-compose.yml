@@ -1,0 +1,8 @@
+version: '3'
+services:
+  app:
+    image: repoflow/microservice-auth-web-container:linked
+    env_file:
+      - .env
+    ports:
+     - "${SERVICE_PORT}:${SERVICE_PORT}"
