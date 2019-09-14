@@ -5,10 +5,12 @@ RUN chown -R node /app
 
 USER node
 
-ARG CACHEBUST=1
-COPY ./node_modules /app/node_modules
-
 WORKDIR /app/node_modules/@nebulario/microservices-auth-web
+
+ARG CACHEBUST=1
+RUN echo "CACHE $CACHEBUST"
+
+COPY --chown=node:node ./node_modules /app/node_modules
 
 ENTRYPOINT ["node"]
 CMD ["dist/index.js"]
