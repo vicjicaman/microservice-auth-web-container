@@ -3,6 +3,6 @@
   "description": "",
   "license": "MIT",
   "dependencies": {
-    "@nebulario/microservices-auth-web": "1.70.0-auth-base-cache-data-prod"
+    "@nebulario/microservices-auth-web": "link:./../microservices-auth-web"
   }
 }
