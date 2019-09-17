@@ -3,6 +3,6 @@
   "description": "",
   "license": "MIT",
   "dependencies": {
-    "@nebulario/microservices-auth-web": "link:./../microservices-auth-web"
+    "@nebulario/microservices-auth-web": "1.70.0-account-page-prod"
   }
 }
