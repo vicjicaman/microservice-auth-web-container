@@ -63,10 +63,10 @@
   resolved "https://registry.yarnpkg.com/@nebulario/microservice-layout/-/microservice-layout-1.70.1-master.tgz#40c45a9edca09f80eb3d3472de148b34ef7e9458"
   integrity sha512-X9wsA8VIyW9GHFoVQANPmSY/2l2Bmoya/oRukSMX/5KSs2oHiie8nvDhJtX6OdNJlKDJSM9pCGsr9GYwabEtAg==
 
-"@nebulario/microservices-auth-web@1.70.0-account-page-prod":
-  version "1.70.0-account-page-prod"
-  resolved "https://registry.yarnpkg.com/@nebulario/microservices-auth-web/-/microservices-auth-web-1.70.0-account-page-prod.tgz#f10cd430a6fa66fe2d21d2e171d8d13b90a756fc"
-  integrity sha512-V73SfTYqVeMtkqb2DsgVe5Etqhguvz1RjJ2AWT944dLav5+cBbG8IS2MgwsgIulFjvmrYhLl3u0Te1t6TOjojg==
+"@nebulario/microservices-auth-web@1.70.2-master":
+  version "1.70.2-master"
+  resolved "https://registry.yarnpkg.com/@nebulario/microservices-auth-web/-/microservices-auth-web-1.70.2-master.tgz#3e3ed93a709c138a28868823bead814a6caf691e"
+  integrity sha512-kuCBR/ovjVtU0FMwDtqX+ICK7B6EOd/8z7QV7hVdZFfH4zyQiLJyAmbc72E5jogg3iata62yLhnnjf7bbJEfrQ==
   dependencies:
     "@apollo/react-hooks" "^3.1.0"
     "@nebulario/microservice-layout" "1.70.1-master"
