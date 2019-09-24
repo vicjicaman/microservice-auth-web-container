@@ -5,7 +5,7 @@ RUN chown -R node /app
 
 USER node
 
-WORKDIR /app/node_modules/@nebulario/microservices-auth-web
+WORKDIR /app/node_modules/@nebulario/microservice-auth-web
 
 ARG CACHEBUST=1
 RUN echo "CACHE $CACHEBUST"
