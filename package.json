@@ -3,6 +3,6 @@
   "description": "",
   "license": "MIT",
   "dependencies": {
-    "@nebulario/microservice-auth-web": "link:./../microservice-auth-web"
+    "@nebulario/microservice-auth-web": "1.70.0-blog-layout-upstream-dev"
   }
 }
