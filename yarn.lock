@@ -73,10 +73,10 @@
   dependencies:
     regenerator-runtime "^0.13.2"
 
-"@nebulario/microservice-auth-web@1.70.0-blog-comments-prod":
-  version "1.70.0-blog-comments-prod"
-  resolved "https://registry.yarnpkg.com/@nebulario/microservice-auth-web/-/microservice-auth-web-1.70.0-blog-comments-prod.tgz#693c24d7c9d48b5eb6d94bbb4870bdaf0552b681"
-  integrity sha512-QwJO6MFo4l81t7jrv6mTW5UTQ+AkMXtnURgXgHIXi1SJ+gPeXISK53lYh3gMMWegCTiXCOIi1TYWMZ2CINBETg==
+"@nebulario/microservice-auth-web@1.70.2-master":
+  version "1.70.2-master"
+  resolved "https://registry.yarnpkg.com/@nebulario/microservice-auth-web/-/microservice-auth-web-1.70.2-master.tgz#7813f1e41e4c70b073600e1ce2e5e2bda742bfde"
+  integrity sha512-EMrkLKnir6JmoymqFgkNz6LyFslA9vm4CG3So+V0WOHxbL6w3mSZuktUuN/cRa47ro9PWZY781KIxM4olVMt9w==
   dependencies:
     "@apollo/react-hooks" "^3.1.0"
     "@nebulario/microservice-layout" "1.70.2-master"
