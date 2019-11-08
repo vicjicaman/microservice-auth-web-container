@@ -1,6 +1,6 @@
 {
   "name": "repoflow/microservice-auth-web-container",
-  "version": "1.70.5-master",
+  "version": "1.70.0-blog-auth-container-update-v1-prod",
   "source": {
     "type": "npm",
     "fullname": "@nebulario/microservice-auth-web",
