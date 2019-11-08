@@ -1,4 +1,9 @@
 {
   "name": "repoflow/microservice-auth-web-container",
-  "version": "1.70.5-master"
+  "version": "1.70.5-master",
+  "source": {
+    "type": "npm",
+    "fullname": "@nebulario/microservice-auth-web",
+    "version": "1.70.2-master"
+  }
 }
